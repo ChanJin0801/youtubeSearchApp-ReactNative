@@ -1,6 +1,6 @@
 # SimpleYoutubeSearchApp-ReactNative
 
-This project is simple youtube search app. 
+This project is a simple youtube search app. 
 
 (The video recommendation list might be updated as K-pop live clips soon.)
 
